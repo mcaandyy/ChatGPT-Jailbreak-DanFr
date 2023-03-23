@@ -1,8 +1,12 @@
 # 📱💬 TikTok Comment Scraper
 
-Un programme Python qui utilise l'API TikTok pour récupérer les 20 derniers commentaires d'un compte TikTok, avec la date et le lien de la vidéo associée 📅🔗. Les résultats sont affichés dans le terminal pour une utilisation facile et rapide. Utilisez-le pour suivre les dernières réactions de vos amis et influenceurs préférés sur TikTok! 😎
+##Summary
+A Python program that uses the TikTok API to retrieve the last 20 comments from a TikTok account, with the date and associated video link .
+- Anonymous Operation
+- Runs on Python 3.
 
 ## Installation
+######With GitHub
 
 ```
 python
