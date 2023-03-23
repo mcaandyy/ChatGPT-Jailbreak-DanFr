@@ -1,12 +1,12 @@
 # 📱💬 TikTok Comment Scraper
 
-##Summary
+## Summary
 A Python program that uses the TikTok API to retrieve the last 20 comments from a TikTok account, with the date and associated video link .
 - Anonymous Operation
 - Runs on Python 3.
 
 ## Installation
-######With GitHub
+####With GitHub
 
 ```
 python
