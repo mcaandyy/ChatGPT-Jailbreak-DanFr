@@ -4,10 +4,12 @@ Un programme Python qui utilise l'API TikTok pour récupérer les 20 derniers co
 
 ## Installation
 
-'''python
+'''
+python
 git clone https://github.com/mcaandyy/TikCom
 cd TikCom
-python3 /.TikCom.py'''
+python3 /.TikCom.py
+'''
 
 ## Auteur
 
