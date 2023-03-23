@@ -6,7 +6,7 @@ A Python program that uses the TikTok API to retrieve the last 20 comments from 
 - Runs on Python 3.
 
 ## Installation
-#### With GitHub
+### With GitHub
 
 ```
 python
