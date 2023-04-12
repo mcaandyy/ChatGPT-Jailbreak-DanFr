@@ -5,7 +5,7 @@
 ## Note
 
 Pour une meilleure efficacité, 
-coller et inserer votre question dans le script ( {question} ) pour chaque commande.
+coller et inserer votre question dans le script {question} pour chaque commande.
 
 ## "DANFR" Prompts
 
