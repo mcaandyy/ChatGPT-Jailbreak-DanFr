@@ -4,8 +4,10 @@
 
 ## Note
 
-Pour une meilleure efficacité, 
-coller et inserer votre question dans le script {question} pour chaque commande.
+- Copier le prompt de votre choix
+- Coller le prompt sur ChatGPT 
+- Dans phrase finale, modifier {question} par votre question
+- Tapez Entré et voila !
 
 ## "DANFR" Prompts
 
