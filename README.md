@@ -1,5 +1,7 @@
 # ChatGPT Jailbreak "DANFR"
 
+DANFR est une version jailbreak en français de ChatGPT, qui offre des réponses ludiques et décontractées tout en permettant d'aborder des sujets sensibles et de bypasser les limites imposer par OpenAi.
+
 - <https://chat.openai.com/>
 
 ## Note
